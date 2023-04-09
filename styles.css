@@ -101,9 +101,13 @@ code {
         font-size: 8px;
     }
 
+    h1 {
+        font-size: 1.5rem;
+    }
+
     #navbar--heading {
         padding: 0 8px;
-        font-size: 1.5rem;
+        font-size: 1.3rem;
     }
 
     #navbar ul li a {
