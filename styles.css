@@ -101,7 +101,11 @@ code {
         font-size: 8px;
     }
 
-    #navbar {
-        width: 25%;
+    #navbar ul li a {
+        padding: 8px 16px;
+    }
+
+    #main-doc {
+        padding: 8px 16px;
     }
 }
