@@ -102,7 +102,8 @@ code {
     }
 
     #navbar--heading {
-        padding-left: 8px;
+        padding: 0 8px;
+        font-size: 1.5rem;
     }
 
     #navbar ul li a {
