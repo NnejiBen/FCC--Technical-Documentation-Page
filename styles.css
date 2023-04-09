@@ -106,6 +106,8 @@ code {
     }
 
     #main-doc {
-        padding: 8px 16px;
+        padding: 8px;
+        left: 0;
+        top: 0;
     }
 }
