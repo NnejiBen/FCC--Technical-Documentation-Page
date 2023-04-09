@@ -108,6 +108,7 @@ code {
     #navbar--heading {
         padding: 0 8px;
         font-size: 1.3rem;
+        font-weight: 600;
     }
 
     #navbar ul li a {
