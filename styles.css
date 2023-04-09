@@ -97,5 +97,11 @@ code {
 /* RESPONSIVE MODE */
 
 @media (max-width: 768px) {
+    html {
+        font-size: 8px;
+    }
 
+    #navbar {
+        width: 25%;
+    }
 }
